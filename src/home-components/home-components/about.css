@@ -1,0 +1,63 @@
+body{
+  box-sizing: border-box;
+  overflow-y: scroll !important;
+}
+.about-container{
+  height: 105vh;
+  width: 100vh;
+  background-color: white;
+  padding-top: 20px;
+}
+.about-section {
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  height: 100%;
+  max-width: 800px;
+  margin: auto;
+  color: #333;
+  background-color: white;
+}
+
+.heading {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: rgb(123, 104, 238);
+  text-align: center;
+}
+
+.description {
+  font-size: 0.9rem;
+  text-align: center;
+  margin: 20px 0;
+  color: #555;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.subheading {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #555;
+  border-bottom: 2px solid rgb(123, 104, 238);
+  padding-bottom: 10px;
+}
+
+.list {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.list li{
+  font-size: 0.8rem;
+  color: #555;
+}
+.get-start-para{
+  font-size: 0.8rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+
